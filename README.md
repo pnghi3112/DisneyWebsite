@@ -32,7 +32,7 @@ Objectives:
 ## Demo 
 
 The live project can be accessed here:  
-[Yearbook Live Demo](https://vaniiphan.github.io/yearbook/)  
+[Disney Website Demo](https://pnghi3112.github.io/DisneyWebsite/ )  
 
 ---
 
